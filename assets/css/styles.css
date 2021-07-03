@@ -16,14 +16,12 @@ body {
     height: 40px;
 }
 
-
-/* HERO */
-#hero-section {
+#top-main {
     background-color: black;
 }
 
 @media screen and (min-width: 768px) {
-    #hero-section {
+    #top-main {
         background-color: transparent;
     }
 
