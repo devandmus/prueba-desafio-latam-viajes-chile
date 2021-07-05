@@ -4,3 +4,5 @@
 - Bootstrap (bundle): v4.6
 - jQuery (bundle): v3.6
 
+Public website:\
+https://devandmus.github.io/prueba-desafio-latam-viajes-chile/
